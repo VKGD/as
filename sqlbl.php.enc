@@ -2,9 +2,9 @@
 error_reporting(0);
 echo "\n";
 echo "##########################\n";
-echo "# Exploit Sqli Balitbang #\n";
-echo "# Cukimay Cyber Team     #\n";
-echo "# Coded By Noniod7       #\n";
+echo "#  sbdhkgd@gmail.com     #\n";
+echo "#       KGD              #\n";
+echo "#   Coded By VKGD        #\n";
 echo "##########################\n";
 $url = $argv[1];
 echo "\n[+] Exploiting : $url\n";
